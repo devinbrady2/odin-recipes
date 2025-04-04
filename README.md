@@ -1,3 +1,3 @@
 # odin-recipes
 
-A simple website showing recipes as a first project for the Odin Project.
+A collection of recipes that demonstrates basic html structure as well as version control with Git and GitHub. Part of the Odin Project.
